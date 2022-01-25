@@ -32,6 +32,13 @@
 $ npm install
 ```
 
+## Create .env
+```
+DB_USUARIO=USER
+DB_PASSWORD=PASSWORD
+DATABASE=DB
+```
+
 ## Running the app
 
 ```bash
